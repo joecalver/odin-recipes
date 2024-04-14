@@ -1,0 +1,20 @@
+* {
+  background-color: lightgoldenrodyellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: darkolivegreen;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  color: darkolivegreen;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+div.list-home {
+  text-align: center;
+}
