@@ -2,6 +2,7 @@
   background-color: lightgoldenrodyellow;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 h1 {
   color: darkolivegreen;
   font-size: 40px;
@@ -15,6 +16,31 @@ h2 {
   font-weight: bold;
 }
 
-div.list-home {
+.homepage {
+  background-color: tomato;
+  color: darkolivegreen;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  padding: 50px;
   text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.item {
+  background-color: brown;
+  font-size: large;
+}
+
+button {
+  background: darkolivegreen;
+  color: orange;
+  font-weight: bold;
+  border: 1px solid #eee;
+  margin: 50px auto;
+  display: block;
+  padding: 10px 24px;
 }
